@@ -113,10 +113,8 @@ hr {
 /* End of class="three-donate-plan" */
 /*Start Bonous section*/
 
-/* End Bonous section*/
-
-
 .input-form {
+
     background-color: #FFF4D9;
     text-align: center;
     width: 50%;
@@ -125,6 +123,24 @@ hr {
     margin-left: 25%;
     margin-bottom: 50px;
 }
+
+#email {
+    background-color: #D9D9D9;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 2px;
+}
+
+#button {
+    color: whitesmoke;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 2px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/* End Bonous section*/
 
 /*Start footer section*/
 footer {
