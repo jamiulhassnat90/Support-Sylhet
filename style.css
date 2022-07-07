@@ -68,3 +68,64 @@ ul li {
     background-color: #FFEEEE;
     border: 2px solid red;
 }
+
+hr {
+    width: 50%;
+    border: 1px solid gray;
+}
+
+/* end of class="donate-now" */
+/* Start of class="three-donate-plan" */
+.three-donate-plan {
+    display: flex;
+    border: 1px solid tomato;
+    padding: 20px;
+}
+
+.donate-head {
+    color: black;
+    font-size: 30px;
+}
+
+.donate-desc {
+    color: #7F7F7F;
+    text-align: justify;
+}
+
+.donate-for-food {
+    padding: 25px;
+    background-color: #EDF5F6;
+    margin-right: 2%;
+}
+
+.donate-for-family {
+    padding: 25px;
+    background-color: #FFEEEE;
+    margin-right: 2%;
+}
+
+.donate-for-child {
+    padding: 25px;
+    background-color: #FFF4D6;
+}
+
+/* End of class="three-donate-plan" */
+/*Start footer section*/
+footer {
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color: #0B0D17;
+}
+
+footer h3 {
+    color: #FF5959;
+    font-size: 25px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+footer p {
+    color: whitesmoke;
+    font-size: 10px;
+}
